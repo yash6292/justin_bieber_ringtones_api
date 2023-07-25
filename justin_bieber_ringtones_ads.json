@@ -1,0 +1,25 @@
+{
+"status": "success",
+"data": {
+"adsclicklimit": "1",
+"appTitle": "Justin Bieber Song Ringtones",
+"appUrl": "https://play.google.com/store/apps/details?id=com.justinbieber.song.ringtones",
+"app_version": "1.0.0",
+"open_ad_id": "ca-app-pub-3940256099942544/3419835294",
+"inter_ad_id": "ca-app-pub-3940256099942544/1033173712",
+"native_ad_id": "ca-app-pub-3940256099942544/2247696110",
+"banner_ad_id": "ca-app-pub-3940256099942544/6300978111",
+"getStarted": true,
+"ringtoneListMain": true,
+"ringtoneListBack": true,
+"setViewMain": false,
+"setViewBack": true,
+"ringtonePlayerBack": true,
+"favouriteRingMain": true,
+"favouriteRingBack": true,
+"exitDialog": true,
+"bottomBar": true,
+"bottomBarBack": true,
+"goToFavourite": true
+}
+}
