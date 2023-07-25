@@ -12,7 +12,7 @@
 "getStarted": true,
 "ringtoneListMain": true,
 "ringtoneListBack": true,
-"setViewMain": false,
+"setViewMain": true,
 "setViewBack": true,
 "ringtonePlayerBack": true,
 "favouriteRingMain": true,
